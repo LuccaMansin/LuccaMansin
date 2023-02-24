@@ -3,6 +3,7 @@
 <div>
 - 🔭 Atualmente trabalho como Designer Gráfico <br>
 - 🌱 Estou estudando  JavaScript, HTML, CSS, JAVA <br>
+- ✔  Conhecimento em UX/UI
 </div>
 
 <div style="display: inline_block"><br>
