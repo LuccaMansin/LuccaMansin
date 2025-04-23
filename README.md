@@ -2,8 +2,9 @@
 
 <div>
 - 🔭 Atualmente trabalho como Designer Gráfico <br>
-- 🌱 Estou estudando  JavaScript, HTML, CSS, JAVA <br>
-- ✔  Conhecimento em UX/UI
+- 🌱 Estudando Análise e Desenvolvimento de Sistemas <br>
+- 📚 Aluno da plataforma DIO.ME
+
 </div>
 
 <div style="display: inline_block"><br>
