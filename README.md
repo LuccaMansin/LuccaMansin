@@ -8,10 +8,6 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Lucca-Js" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Lucca-HTML" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Lucca-CSS" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Lucca-Java" height="30" width="50" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
   <img align="right" alt="Lucca-pic" height="125" style="border-radius:50px;" 
   src="https://cdn.discordapp.com/attachments/1075897321314848898/1077782312873365554/Design_sem_nome.jpg">
 </div>
