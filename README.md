@@ -1,7 +1,7 @@
 ### Fala galera, me chamo Lucca e aqui estão alguns dos meus projetos e conhecimentos!
 
 <div>
-- 🔭 Atualmente trabalho como Designer Gráfico <br>
+- 🔭 Atualmente trabalho como Produtor/Cenográfo <br>
 - 🌱 Estudando Análise e Desenvolvimento de Sistemas <br>
 - 📚 Aluno da plataforma DIO.ME
 
