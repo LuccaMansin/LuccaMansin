@@ -5,13 +5,6 @@
 - 🌱 Estudando Análise e Desenvolvimento de Sistemas <br>
 - 📚 Aluno da plataforma DIO.ME
 
-</div>
-
-<div style="display: inline_block"><br>
-  <img align="right" alt="Lucca-pic" height="125" style="border-radius:50px;" 
-  src="https://cdn.discordapp.com/attachments/1075897321314848898/1077782312873365554/Design_sem_nome.jpg">
-</div>
-
 ##
  
 <div> 
